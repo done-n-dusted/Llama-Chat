@@ -1,4 +1,4 @@
 langchain
 python-dotenv
 llama-cpp-python
-
+langchain_community
